@@ -5,7 +5,7 @@ Aluno: Leonardo Sokolowski de Albuquerque
 Os arquivos presentes neste repositório são referentes aos códigos desenvolvidos e utilizados ao longo do trabalho de conclusão de curso.
 Vale ressaltar que a intenção deste repositório é fomentar o estudo de IA, em especial na Engenharia Elétrica do IFSC Câmpus Itajaí.
 
-Os presentes códigos possuem os bancos de dados utilizados para elaboração do banco de dados próprio, de tal forma que o projeto possa ser replicado.
+Os presentes códigos possuem os datasets utilizados para elaboração do banco de dados próprio, de tal forma que o projeto possa ser replicado.
 
 Arquivos:
 - ARTE_COVID_LEO.ipynb : Arquivo da rede neural no estado da arte, contém toda a rede neural Inception modificada bem como a possibilidade de utilizar 
